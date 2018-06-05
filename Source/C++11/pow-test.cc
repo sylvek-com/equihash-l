@@ -1,6 +1,8 @@
 /*Code by Dmitry Khovratovich, 2016
 CC0 license
 */
+#define PRIu32 "lu"
+#define PRIu64 "Lu"
 #include "pow.h"
 
 #include <inttypes.h>
